@@ -1,7 +1,10 @@
+<div>
+    <h2 style="text-align: center padding-bottom: 50px">SeongBae</h2>
+    <h4 style="text-align:left">seongbae.log</h4>
+    <h4 style="text-align:left">boost_dev</h4>
+</div>
 
-<div style="font-size: 35px; text-align: center; padding-bottom: 50px;">Seongbae.log</div>
-<div style="font-size: 25px; padding-bottom: 30px;">Stack</div>
-
+<div style="font-size: 25px padding-bottom: 30px text-align: center">Stack</div>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-02456C?style=plastic&logo=python&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Anaconda-173B3F?style=plastic&logo=Anaconda&logoColor=white"/></a><br/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white"/></a>
@@ -22,3 +25,5 @@
 
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham)
+
+
