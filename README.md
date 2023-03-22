@@ -35,4 +35,4 @@
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:00A98F,100:26689A&height=300&section=footer&fontSize=50&height=100"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&section=footer&color=0:00A98F,100:26689A&height=300&section=footer&fontSize=50&height=100"/>
