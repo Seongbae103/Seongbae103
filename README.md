@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,100:26689A&height=300&section=header&text=Seongbae's%20GitHub&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,100:26689A&height=300&section=header&text=Seongbae's%20GitHub&fontSize=90" align="center"/>
 
 <div align= "center">
     <div >📚Stack</div>
@@ -14,7 +14,8 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-FC08D?style=plastic&logo=Vue.js&logoColor=white"/></a><br/>
 </div>
-
+<br/>
+<br/>
 <div align= "center">
     <div>🧰Tools🧰</div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>    
@@ -23,12 +24,15 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/></a>
 </div>
-
+<br/>
+<br/>
 <div align= "center">
     <div>📫Contacts📫</div>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
         <a href="https://velog.io/@boost_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 </div>
-
+<br/>
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:00A98F,100:26689A&height=300&section=footer&fontSize=50&height=100"/>
