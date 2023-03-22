@@ -1,5 +1,5 @@
 <body style="background-color: black">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20render&fontSize=90&section=footer&text=SeongBae's GitHub👨‍💻%20render&fontSize=40"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20render&fontSize=90"/>
     <div>
         <div style="font-size: 25px padding-bottom: 30px text-align: center">📚Stack</div>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-02456C?style=plastic&logo=python&logoColor=white"/></a>
@@ -16,7 +16,7 @@
     </div>
 ---
     <div>
-        <div style="font-size: 25px padding-bottom: 30px align: center">📚Stack</div>
+        <div style="font-size: 25px padding-bottom: 30px align: center">🧰Tools🧰</div>
             <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-4479A1?style=plastic&logo=Notion&logoColor=white"/></a>    
             <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4479A1?style=plastic&logo=Slack&logoColor=white"/></a>
             <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-4479A1?style=plastic&logo=GitHub&logoColor=white"/></a>
@@ -24,7 +24,7 @@
     </div>
 
 ---
-<div style="font-size: 25px padding-bottom: 30px align:center">records</div>
+<div style="font-size: 25px padding-bottom: 30px align:center">📫Contacts📫</div>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@boost_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 
