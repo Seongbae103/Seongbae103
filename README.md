@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seongbae's%20GitHub&fontSize=90&color=#68BC71"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#68BC71&height=300&section=header&text=Seongbae's%20GitHub&fontSize=90"/>
 
 <div align= "center">
     <div >📚Stack</div>
@@ -14,18 +14,20 @@
     <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Vue.js-FC08D?style=plastic&logo=Vue.js&logoColor=white"/></a><br/>
 </div>
+
 <div align= "center">
-    <div style="font-size: 25px padding-bottom: 30px align: center">🧰Tools🧰</div>
-        <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-4479A1?style=plastic&logo=Notion&logoColor=white"/></a>    
-        <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4479A1?style=plastic&logo=Slack&logoColor=white"/></a>
-        <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-4479A1?style=plastic&logo=GitHub&logoColor=white"/></a>
-        <a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-4479A1?style=plastic&logo=Postman&logoColor=white"/></a>
+    <div>🧰Tools🧰</div>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-4479A1?style=plastic&logo=Notion&logoColor=white"/></a>    
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4479A1?style=plastic&logo=Slack&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-4479A1?style=plastic&logo=GitHub&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-4479A1?style=plastic&logo=Postman&logoColor=white"/></a>
 </div>
 
-<div align= "center">📫Contacts📫</div>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
-<a href="https://velog.io/@boost_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
-
+<div align= "center">
+    <div>📫Contacts📫</div>
+        <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+        <a href="https://velog.io/@boost_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
+</div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&fontSize=50&color=#68BC71"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=#68BC71&height=300&section=footer&fontSize=50"/>
