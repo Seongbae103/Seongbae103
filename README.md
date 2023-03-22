@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#68BC71&height=300&section=header&text=Seongbae's%20GitHub&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=68BC71&height=300&section=header&text=Seongbae's%20GitHub&fontSize=90"/>
 
 <div align= "center">
     <div >📚Stack</div>
@@ -30,4 +30,4 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=#68BC71&height=300&section=footer&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=68BC71&height=300&section=footer&fontSize=50"/>
