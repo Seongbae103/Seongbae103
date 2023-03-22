@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20render&fontSize=50&section=footer&text=Seongbae's%10GitHub&fontSize=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20render&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=Seongbae's%20GitHub&fontSize=50"/>
 <div>
     <div style="font-size: 25px padding-bottom: 30px text-align: center">📚Stack</div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-02456C?style=plastic&logo=python&logoColor=white"/></a>
@@ -27,4 +28,3 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
-
