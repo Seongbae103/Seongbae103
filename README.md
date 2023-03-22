@@ -1,4 +1,4 @@
-<div align="center" font="Allura">
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,100:26689A&height=300&section=header&text=SeongBae's%20GitHub&fontSize=90"/>
 </div>
 
@@ -6,7 +6,7 @@
 <div align= "center">
     <div >📚Stack</div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-02456C?style=plastic&logo=python&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Anaconda-173B3F?style=plastic&logo=Anaconda&logoColor=white"/></a><br/>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Anaconda-173B3F?style=plastic&logo=Anaconda&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></a><br/>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/></a>
