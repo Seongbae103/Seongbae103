@@ -40,4 +40,6 @@
 <div align= "center">
     <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
 </div>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00A98F,100:26689A&height=100&section=footer&fontSize=50"/>
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=0:00A98F,100:26689A&height=100&section=footer&fontSize=50"/>
+</div>
