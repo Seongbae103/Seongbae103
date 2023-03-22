@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=68BC71&height=300&section=header&text=Seongbae's%20GitHub&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,100:26689A&height=300&section=header&text=Seongbae's%20GitHub&fontSize=90"/>
 
 <div align= "center">
     <div >📚Stack</div>
@@ -17,10 +17,11 @@
 
 <div align= "center">
     <div>🧰Tools🧰</div>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-4479A1?style=plastic&logo=Notion&logoColor=white"/></a>    
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4479A1?style=plastic&logo=Slack&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-4479A1?style=plastic&logo=GitHub&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-4479A1?style=plastic&logo=Postman&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>    
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=Postman&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Pycharm-000000?style=plastic&logo=Pycharm&logoColor=white"/></a>
 </div>
 
 <div align= "center">
@@ -30,4 +31,4 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
-<img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=68BC71&height=300&section=footer&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&reversal=true&color=0:00A98F,100:26689A&height=300&section=footer&fontSize=50&height=100"/>
