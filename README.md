@@ -1,12 +1,12 @@
-<div align="center">
+<div align="center" font="Allura">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,100:26689A&height=300&section=header&text=SeongBae's%20GitHub&fontSize=90"/>
 </div>
 
 <br/><br/>
 <div align= "center">
-    <h3 >📚Stack</h3>
+    <div >📚Stack</div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-02456C?style=plastic&logo=python&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Anaconda-173B3F?style=plastic&logo=Anaconda&logoColor=white"/></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Anaconda-173B3F?style=plastic&logo=Anaconda&logoColor=white"/></a><br/>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=FastAPI&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/></a><br/>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=PyTorch&logoColor=white"/></a>
@@ -20,7 +20,7 @@
 <br/><br/>
 <br/><br/>
 <div align= "center">
-    <h3>🧰Tools🧰</h3>
+    <div>🧰Tools🧰</div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white"/></a>    
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=GitHub&logoColor=white"/></a></br>
@@ -30,7 +30,7 @@
 <br/><br/>
 <br/><br/>
 <div align= "center">
-    <h3>📫Contacts📫</h3>
+    <div>📫Contacts📫</div>
         <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
         <a href="https://velog.io/@boost_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=plastic&logo=Velog&logoColor=white"/></a>
 </div>
