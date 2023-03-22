@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,100:26689A&height=300&section=header&text=SeongBae's%20GitHub&fontSize=90"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
+
 </div>
 <br/><br/>
 <br/><br/>
@@ -37,4 +37,7 @@
 </div>
 <br/><br/>
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00A98F,100:26689A&height=300&section=footer&fontSize=50&height=100"/>
+<div align= "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00A98F,100:26689A&height=100&section=footer&fontSize=50"/>
