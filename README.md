@@ -1,8 +1,7 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A98F,100:26689A&height=300&section=header&text=SeongBae's%20GitHub&fontSize=90"/>
-
 </div>
-<br/><br/>
+
 <br/><br/>
 <div align= "center">
     <div >📚Stack</div>
@@ -40,6 +39,8 @@
 <div align= "center">
     <img src="https://github-readme-stats.vercel.app/api?username=Seongbae&show_icons=true&theme=gotham"/>
 </div>
+<br/><br/>
+<br/><br/>
 <br/><br/>
 <br/><br/>
 <div align= "center">
